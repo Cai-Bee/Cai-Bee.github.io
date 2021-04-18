@@ -1,8 +1,20 @@
-## Welcome to GitHub Pages
+## Welcome to Cai-Bee's GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/Cai-Bee/Cai-Bee.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+I am a student of ZJU-UoE Institute.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+My major is BMI.
+
+I am really interested in biology and programming. 
+
+
+
+
+
+Use the [editor on GitHub](https://github.com/Cai-Bee/Cai-Bee.github.io/edit/main/index.md) to maintain and preview the content for my website in Markdown files.
+
+Whenever I commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in my site, from the content in my Markdown files.
+
+Information about website designing
 
 ### Markdown
 
